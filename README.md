@@ -58,3 +58,6 @@
 
 **작성자** Won Chi Hyun 
 **날짜:** 2025-03-20
+
+
+(참고자료 CERT)[https://velog.io/@secloud/15.-%EC%95%85%EC%84%B1%EC%BD%94%EB%93%9C-%EB%B6%84%EC%84%9D-%EB%B3%B4%EA%B3%A0%EC%84%9C-%EC%9E%91%EC%84%B1-nb9gyu9g]
